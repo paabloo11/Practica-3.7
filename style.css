@@ -1,0 +1,35 @@
+h1.centro {
+    text-align: center;
+}
+
+div.azul {
+    background-color: blue;
+    color: blue;
+    width: 420px;
+    height: 420px;
+    display: inline-block;
+    text-align: center;
+}
+
+div.rojo {
+    background-color: red;
+    color: red;
+    width: 420px;
+    height: 420px;
+    display: inline-block;
+    text-align: center;
+}
+
+div.amarillo {
+    background-color: yellow;
+    color: yellow;
+    width: 420px;
+    height: 420px;
+    display: inline-block;
+    text-align: center;
+}
+
+div.verde {
+    background-color: green;
+    height: 70px;
+}
